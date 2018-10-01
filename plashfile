@@ -1,3 +1,3 @@
 --from alpine
---apk py3-pip unionfs-fuse
+--apk bash py3-pip unionfs-fuse
 --pip3 plash
