@@ -1,3 +1,5 @@
 --from alpine
 --apk bash py3-pip unionfs-fuse
 --pip3 plash
+--run
+plash init
